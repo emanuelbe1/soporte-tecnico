@@ -8,6 +8,8 @@ Este repositorio contiene material de consulta técnica organizado por áreas de
 - [Redes Informáticas](./redes-informaticas/README.md)
 - [Sistemas Operativos](./sistemas-operativos/README.md)
 - [Hardware](./hardware/README.md)
+- [Troubleshooting](./troubleshooting/README.md)
+- [Seguridad Informática](./seguridad-informatica/README.md)
 
 
 ## Licencia
