@@ -5,6 +5,7 @@ Esta sección contiene notas personales, comandos útiles y conceptos clave sobr
 ## Contenido
 
 - [Comandos útiles](./comandos.md)
+- [Modelo TCP/IP de cinco capas](./modelo-tcp-ip-5-capas.md)
 - [Modelo OSI y sus capas](./modelo-osi.md)
 - [Diagnóstico y resolución de problemas (troubleshooting)](./troubleshooting.md)
 - [Notas rápidas y ejemplos prácticos](./notas.md)
