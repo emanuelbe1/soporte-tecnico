@@ -1,4 +1,4 @@
-# Soporte Técnico
+# Soporte técnico
 
 Este repositorio contiene material de consulta técnica organizado por áreas de soporte informático, basado en mi experiencia práctica y estudio. Son recursos técnicos personales sobre redes informáticas, sistemas operativos, software y hardware, entre otros.
 
