@@ -7,7 +7,7 @@ Esta sección contiene notas personales, comandos útiles y conceptos clave sobr
 - [Dispositivos de red fundamentales](./dispositivos-de-red-fundamentales.md)
 - [Modelo TCP/IP de cinco capas](./modelo-tcp-ip-5-capas.md)
 - [Capa física](./capa-fisica.md)
-- [Modelo OSI y sus capas](./modelo-osi.md)
+- [Capa de enlace de datos](./capa-enlace-de-datos.md)
 - [Diagnóstico y resolución de problemas (troubleshooting)](./troubleshooting.md)
 - [Comandos útiles](./comandos.md)
 
